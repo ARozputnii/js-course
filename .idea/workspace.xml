@@ -20,7 +20,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5a96d51-5c31-4cb6-9446-b943bfedd426" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Practice part 6/project/css/style.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice part 6/project/css/style.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice part 6/project/icons/._Logotype.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice part 6/project/icons/._Star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice part 6/project/icons/._search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice part 6/project/icons/._trash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice part 6/project/icons/Logotype.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice part 6/project/icons/Star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice part 6/project/icons/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice part 6/project/icons/trash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice part 6/project/img/._bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice part 6/project/img/._content_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice part 6/project/img/._content_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice part 6/project/img/._content_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice part 6/project/img/._mars.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice part 6/project/img/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice part 6/project/img/content_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice part 6/project/img/content_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice part 6/project/img/content_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice part 6/project/img/mars.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice part 6/project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice part 6/project/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice part 6/project/sass/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice part 5/project/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice part 5/project/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +76,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Practice part 4" />
     </key>
   </component>
@@ -84,6 +109,9 @@
       <workItem from="1603912686800" duration="19000" />
       <workItem from="1603912731036" duration="34000" />
       <workItem from="1603913186942" duration="246000" />
+      <workItem from="1603913593707" duration="126000" />
+      <workItem from="1603913811875" duration="23000" />
+      <workItem from="1603957507576" duration="3854000" />
     </task>
     <task id="LOCAL-00001" summary="4">
       <created>1602101220315</created>
@@ -92,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602101220315</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Practice part 5">
+      <created>1603913672612</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603913672612</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,12 +147,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="4" />
-    <option name="LAST_COMMIT_MESSAGE" value="4" />
+    <MESSAGE value="Practice part 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice part 5" />
   </component>
   <component name="WindowStateProjectService">
     <state x="601" y="209" width="1022" height="737" key="SettingsEditor" timestamp="1603913408698">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="601" y="209" width="1022" height="737" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1603913408698" />
+    <state x="555" y="261" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1603913674364">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="555" y="261" width="800" height="535" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1603913674364" />
   </component>
 </project>
